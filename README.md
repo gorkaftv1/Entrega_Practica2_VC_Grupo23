@@ -87,7 +87,6 @@ A continuación se configura Visual Studio Code para usar el kernel configurado.
 
 - [OpenCV Documentation - Canny Edge Detection](https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html)
 - [OpenCV Documentation - Background Subtraction](https://docs.opencv.org/4.x/d1/dc5/tutorial_background_subtraction.html)
-- [OpenCV Documentation - Morphological Transformations](https://docs.opencv.org/4.x/d9/d61/tutorial_py_morphological_ops.html)
 - [My little piece of privacy - Niklas Roy](https://www.niklasroy.com/project/88/my-little-piece-of-privacy)
 - [Messa di voce - Interactive Installation](https://youtu.be/GfoqiyB1ndE?feature=shared)
 - [Virtual air guitar](https://youtu.be/FIAmyoEpV5c?feature=shared)
